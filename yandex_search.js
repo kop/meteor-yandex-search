@@ -1,0 +1,1 @@
+YandexSearch = Meteor.wrapAsync(Npm.require('yandex-search'));
